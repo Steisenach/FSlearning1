@@ -6,7 +6,5 @@
 }
 
 #imgBG {
-  display: block;
-  height: auto;
-   background-size: cover;
+  background-size: 100% auto;
 }
