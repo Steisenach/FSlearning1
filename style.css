@@ -6,6 +6,8 @@
 }
 
 #imgBG {
-  max-width: 30%;
+  max-width: 100%;
   height: auto;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
